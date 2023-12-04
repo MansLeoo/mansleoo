@@ -90,7 +90,7 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansleoo&hide_border=true&layout=compact&color=black" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansleoo&hide_border=true&layout=compact&theme=dark" align="left" />
 <br />
 
 
