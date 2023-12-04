@@ -69,6 +69,7 @@
 
 
 ## Connect with me
+<div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/l%C3%A9o-mans-9416b229b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -84,15 +85,14 @@
 <a href="https://codepen.com/x" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
+</div>
 
 
 <br/>
 
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansleoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="mansLeoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansleoo&show_icons=true&theme=dark&locale=en" alt="mansLeoo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansleoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="mansLeoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansleoo&theme=dark" alt="mansleoo" /></p>
 <br />
