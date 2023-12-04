@@ -6,7 +6,7 @@
 ### <div align="center">I'm Léo, I'm a computer science student in my third year of a degree course 📖</div>
 
 
--  🎄 I'm currently taking part in [AdventOfCode2023](https://github.com/MansLeoo/AdventOfCode2023)
+-  🎄 [I'm](https://github.com/MansLeoo/AdventOfCode2023) currently taking part in [AdventOfCode2023](https://adventofcode.com/)
 
 
 -  💎🔴I’m currently learning Ruby
