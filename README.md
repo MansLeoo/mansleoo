@@ -69,7 +69,7 @@
 
 
 
-## My Current Playlist
+## My Favorite Albums
 <div align="center">
 <table>
   <tr>
@@ -91,8 +91,8 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong ><div align="center">カワキヲアメク</div></strong></td>
-    <td style="text-align: center;"><strong>Kyougen</strong></td>
-    <td style="text-align: center;"><strong>THE BOOK 3</strong></td>  </tr>
+    <td style="text-align: center;"><strong><div align="center">Kyougen</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">THE BOOK 3</div></strong></td>  </tr>
 </table>
 </div>
 <br/>
