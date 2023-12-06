@@ -58,8 +58,17 @@
 
 
 <br/>
+
 ## My Current Playlist
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg=w544-h544-l90-rj" alt="Unity" height="50" />
+<div align="center">
+
+<img style="margin: 10px" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg=w544-h544-l90-rj" alt="カワキヲアメク" height="200" />
+<img style="margin: 10px" src="https://lh3.googleusercontent.com/Y1wFatIxXf8VrWHYXzZbqJnExWraXL7U7BdCpQTHCaVgCoXv2elxKX8NJdlXuepS9gWiq52msJZ-izEN=w544-h544-l90-rj" alt="Kyougen" height="200" />
+<img style="margin: 10px" src="https://lh3.googleusercontent.com/EZ56u4kGKYrWetlA-SVcWGtOSH9BbdJ5-PSWZFnt7FsIYWO6CWOTvbtuHln-ezY-rn8GdOELKnKm3p20=w544-h544-l90-rj" alt="Book3" height="200" />
+
+</div>
+<br/>
+
 ## Github Stats
 <div align="center">
 
