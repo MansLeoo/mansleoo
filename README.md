@@ -86,9 +86,9 @@
   </td>
   </tr>
   <tr>
-    <td>**カワキヲアメク**</td>
-    <td>**Kyougen**</td>
-    <td>**THE BOOK 3**</td>
+    <td><strong>カワキヲアメク</strong></td>
+    <td><strong>Kyougen</strong></td>
+    <td><strong>THE BOOK 3</strong></td>
   </tr>
 </table>
 </div>
