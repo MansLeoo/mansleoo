@@ -90,10 +90,9 @@
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong ><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank" style="color: white;">カワキヲアメク</a></strong></td>
-    <td style="text-align: center;"><strong><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank" style="color: white;">Kyougen</a></strong></td>
-    <td style="text-align: center;"><strong>[THE BOOK 3](https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU)</strong></td>
-  </tr>
+    <td style="text-align: center;"><strong ><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank" style="color: inherit; text-decoration: none;">カワキヲアメク</a></strong></td>
+    <td style="text-align: center;"><strong><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank" style="color: inherit; text-decoration: none;">Kyougen</a></strong></td>
+    <td style="text-align: center;"><strong><a href = "https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU" target="_blank" style="color: inherit; text-decoration: none;">THE BOOK 3</a></strong></td>  </tr>
 </table>
 </div>
 <br/>
