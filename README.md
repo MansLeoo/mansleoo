@@ -86,9 +86,9 @@
   </td>
   </tr>
   <tr>
-    <td><strong align="center">カワキヲアメク</strong></td>
-    <td><strong>Kyougen</strong></td>
-    <td><strong>THE BOOK 3</strong></td>
+    <td style="text-align: center;><strong ><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank">カワキヲアメク</a></strong></td>
+    <td style="text-align: center;><strong><a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank">Kyougen</a></strong></td>
+    <td style="text-align: center;><strong><a href = "https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU" target="_blank">THE BOOK 3</a></strong></td>
   </tr>
 </table>
 </div>
