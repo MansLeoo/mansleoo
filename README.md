@@ -1,11 +1,7 @@
 <div align="center">
 <img src="https://github.com/MansLeoo/mansleoo/blob/main/bannerV3.png" align="center" style="width: 100%" />
 </div>
-    <style>
-        a {
-            color: inherit;
-        }
-    </style>
+
 
 ### <div align="center">I'm Léo, I'm a computer science student in my third year of a degree course 📖</div>
 <br/>
