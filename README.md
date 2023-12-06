@@ -86,7 +86,7 @@
   </td>
   </tr>
   <tr>
-    <td><strong>カワキヲアメク</strong></td>
+    <td><strong align="center">カワキヲアメク</strong></td>
     <td><strong>Kyougen</strong></td>
     <td><strong>THE BOOK 3</strong></td>
   </tr>
