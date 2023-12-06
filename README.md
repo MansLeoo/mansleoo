@@ -90,7 +90,7 @@
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong >カワキヲアメク</strong></td>
+    <td style="text-align: center;"><strong ><div align="center">カワキヲアメク</div></strong></td>
     <td style="text-align: center;"><strong>Kyougen</strong></td>
     <td style="text-align: center;"><strong>THE BOOK 3</strong></td>  </tr>
 </table>
