@@ -45,9 +45,9 @@
 
 ### Adobe Software Proficiency
 
-<div style="margin-right: 300px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50" style="margin-right: 300px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" style="margin-right: 300px;" />
+<div style="margin-right: 80px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" />
 </div>
 
 
