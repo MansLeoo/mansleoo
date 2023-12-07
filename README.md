@@ -40,14 +40,16 @@
 
 
 <br/>
-
+## Other skills
+### Adobe Software Proficiency
+<img src="https://fr.wikipedia.org/wiki/Adobe_Photoshop#/media/Fichier:Adobe_Photoshop_CC_icon.svg" height="50" />
+<img src="https://fr.wikipedia.org/wiki/Adobe_Premiere_Pro#/media/Fichier:Adobe_Premiere_Pro_CC_icon.svg" height="50" />
 
 
 
 
 # About me
-## Other skills
-### Adobe Software Proficiency
+
 ### My Favorite Albums
 <div align="center">
 <table>
