@@ -41,8 +41,10 @@
 
 <br/>
 ## Other skills
+
 ### Adobe Software Proficiency
-<table><tr><td>
+
+<table><tr><td valign="top">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" />
