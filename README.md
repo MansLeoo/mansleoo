@@ -46,8 +46,9 @@
 
 
 # About me
-
-## My Favorite Albums
+## Other skills
+### Adobe Software Proficiency
+### My Favorite Albums
 <div align="center">
 <table>
   <tr>
