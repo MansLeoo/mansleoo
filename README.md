@@ -45,7 +45,7 @@
 
 ### Adobe Software Proficiency
 
-<div style="margin-right: 80px;">
+<div style="display: flex; justify-content: space-between; margin-right: 100px;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" />
 </div>
