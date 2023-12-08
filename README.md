@@ -53,7 +53,7 @@
 ### Game Engines Proficiency
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img src="https://w7.pngwing.com/pngs/453/640/png-transparent-html-computer-icons-white-computer-software-unreal-engine-4-logo-angle-white-rectangle.png" height="50" />
+  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" height="50" />
   <img src="https://www.realite-virtuelle.com/wp-content/uploads/2016/06/unity_logo-1.jpg" height="50" />
 </div>
 
