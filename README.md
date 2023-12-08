@@ -46,15 +46,15 @@
 ### Adobe Software Proficiency
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="80" />
 </div>
 
 ### Game Engines Proficiency
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" height="50" />
-  <img src="https://www.realite-virtuelle.com/wp-content/uploads/2016/06/unity_logo-1.jpg" height="50" />
+  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" height="80" />
+  <img src="https://www.realite-virtuelle.com/wp-content/uploads/2016/06/unity_logo-1.jpg" height="80" />
 </div>
 
 
