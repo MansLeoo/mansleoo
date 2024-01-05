@@ -58,7 +58,7 @@
 ### 3D Modeling Software Proficiency
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img src="https://scontent.fsxb1-1.fna.fbcdn.net/v/t39.30808-6/355365546_640906741406889_7575128926361770600_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Eh1bqLU6kc0AX9oi2-e&_nc_ht=scontent.fsxb1-1.fna&oh=00_AfBxNa0jvsMWhVA0jgf95G1C5yBtrQwztRGqziEdCdmAOw&oe=657F796E" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Sketchup_logo2.png" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="80" />
 </div>
 
