@@ -7,10 +7,9 @@
 <br/>
 
 
--  🎄 [I'm](https://github.com/MansLeoo/AdventOfCode2023) currently taking part in [AdventOfCode2023](https://adventofcode.com/)
 
 
--  💎🔴I’m currently learning Ruby
+- ®️ I’m currently learning R language
 
 
 <br/>
