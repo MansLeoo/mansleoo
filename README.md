@@ -62,22 +62,19 @@
 
 # About me
 
-### Non-Tech Pursuits
+### Personal Interests Outside of Tech
 <div align="center">
 <table>
   <tr>
 <td>
-  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank">
     <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/aeronautiques.png" alt="aeronautics" height="200" />
   
   </td>
 <td>
-<a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank">
 <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/mont-fuji.png" alt="Japanese Culture" height="200" />
 </a>
 </td>
     <td>
-  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU" target="_blank">
   <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/astronomie.png" alt="Astronomy" height="200" />
   </a>
   </td>
