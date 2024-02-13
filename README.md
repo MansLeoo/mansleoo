@@ -68,7 +68,7 @@
   <tr>
 <td>
   <a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank">
-    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/aeronautique.png" alt="aeronautics" height="200" />
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/aeronautiques.png" alt="aeronautics" height="200" />
   
   </td>
 <td>
@@ -83,9 +83,9 @@
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong ><div align="center">カワキヲアメク</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">Kyougen</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">THE BOOK 3</div></strong></td>  </tr>
+    <td style="text-align: center;"><strong ><div align="center">Aeronautics</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Japanese Culture</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Astronomy</div></strong></td>  </tr>
 </table>
 </div>
 <br/>
