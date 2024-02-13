@@ -62,6 +62,36 @@
 
 # About me
 
+### Non-Tech Pursuits
+<div align="center">
+<table>
+  <tr>
+<td>
+  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank">
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/aeronautique.png" alt="aeronautics" height="200" />
+  
+  </td>
+<td>
+<a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank">
+<img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/mont-fuji.png" alt="Japanese Culture" height="200" />
+</a>
+</td>
+    <td>
+  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU" target="_blank">
+  <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/astronomie.png" alt="Astronomy" height="200" />
+  </a>
+  </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong ><div align="center">カワキヲアメク</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Kyougen</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">THE BOOK 3</div></strong></td>  </tr>
+</table>
+</div>
+<br/>
+
+
+
 ### My Favorite Albums
 <div align="center">
 <table>
