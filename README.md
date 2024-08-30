@@ -89,7 +89,7 @@
 
 
 
-### My Favorite Artist
+### My Favorite Artists
 <div align="center">
 <table>
   <tr>
@@ -99,20 +99,20 @@
   
   </td>
 <td>
-<a href = "https://music.youtube.com/playlist?list=OLAK5uy_l8fQyUWZfOO25E9HeDeeJCIDm0tsxwguc" target="_blank">
-<img style="margin: 10px" src="https://lh3.googleusercontent.com/Y1wFatIxXf8VrWHYXzZbqJnExWraXL7U7BdCpQTHCaVgCoXv2elxKX8NJdlXuepS9gWiq52msJZ-izEN=w544-h544-l90-rj" alt="Kyougen" height="200" />
+<a href = "https://www.youtube.com/channel/UC1pe9Xxh8Y0-Rvg-RE6NCPg" target="_blank">
+<img style="margin: 10px" src="https://yt3.googleusercontent.com/uJAfFtRaY6KuVaIIfh5k5TVGsBoqyGxA7UctWXcftIYJIwZpDXdNjHsaLtzOamcIAAEtvMWegg=s160-c-k-c0x00ffffff-no-rj" alt="tetsuro" height="200" />
 </a>
 </td>
     <td>
-  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_kMj2M0Od8IUPbLy-S9ZxOpPCCiTChBAlU" target="_blank">
-  <img style="margin: 10px" src="https://lh3.googleusercontent.com/EZ56u4kGKYrWetlA-SVcWGtOSH9BbdJ5-PSWZFnt7FsIYWO6CWOTvbtuHln-ezY-rn8GdOELKnKm3p20=w544-h544-l90-rj" alt="Book3" height="200" />
+  <a href = "https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA" target="_blank">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NF_photo_2016.jpg?uselang=fr" alt="NF" height="200" />
   </a>
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong ><div align="center">カワキヲアメク</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">Kyougen</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">THE BOOK 3</div></strong></td>  </tr>
+    <td style="text-align: center;"><strong ><div align="center">Ado</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Tetsuro</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">NF</div></strong></td>  </tr>
 </table>
 </div>
 <br/>
