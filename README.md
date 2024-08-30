@@ -105,7 +105,7 @@
 </td>
     <td>
   <a href = "https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NF_photo_2016.jpg?uselang=fr" alt="NF" height="200" />
+  <img style="margin: 10px" src="https://yt3.googleusercontent.com/hib75A2V1CCLJX9OIr4eYS6Hnx7VM8XVkPLM_qc8Z87vqz76vyJgFfpD7Mn30BuxakqkH3Uv=s160-c-k-c0x00ffffff-no-rj" alt="NF" height="200" />
   </a>
   </td>
   </tr>
