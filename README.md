@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Léo, I'm a computer science student in my third year of a degree course 📖</div>
+### <div align="center">I'm Léo, I'm currently in my first year of a master's degree in 3D technology management. 📖</div>
 <br/>
 
 
@@ -89,13 +89,13 @@
 
 
 
-### My Favorite Albums
+### My Favorite Artist
 <div align="center">
 <table>
   <tr>
 <td>
-  <a href = "https://music.youtube.com/playlist?list=OLAK5uy_l_buQU3_froA-z_YsOuQt0pBNNjerxlek" target="_blank">
-    <img style="margin: 10px" src="https://lh3.googleusercontent.com/0ZiFfuMFWuQFB4oeClIiY_-uNfQWdXjEtQdxdb8rbBadM5Fs-QDclfcjoWKMgwHPDdRY-sfsd0nANAaFcg=w544-h544-l90-rj" alt="カワキヲアメク" height="200" />
+  <a href = "https://music.youtube.com/channel/UC5DHwv9N4OQ9AWtKr8YSefw" target="_blank">
+    <img style="margin: 10px" src="https://static.wikia.nocookie.net/jpop/images/3/30/AdoProfile2.png/revision/latest?cb=20221125210500" alt="Ado" height="200" />
   
   </td>
 <td>
