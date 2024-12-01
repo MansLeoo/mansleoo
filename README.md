@@ -89,33 +89,7 @@
 
 
 
-### My Favorite Artists
-<div align="center">
-<table>
-  <tr>
-<td>
-  <a href = "https://music.youtube.com/channel/UC5DHwv9N4OQ9AWtKr8YSefw" target="_blank">
-    <img style="margin: 10px" src="https://static.wikia.nocookie.net/jpop/images/3/30/AdoProfile2.png/revision/latest?cb=20221125210500" alt="Ado" height="200" />
-  
-  </td>
-<td>
-<a href = "https://www.youtube.com/channel/UC1pe9Xxh8Y0-Rvg-RE6NCPg" target="_blank">
-<img style="margin: 10px" src="https://yt3.googleusercontent.com/uJAfFtRaY6KuVaIIfh5k5TVGsBoqyGxA7UctWXcftIYJIwZpDXdNjHsaLtzOamcIAAEtvMWegg=s160-c-k-c0x00ffffff-no-rj" alt="tetsuro" height="200" />
-</a>
-</td>
-    <td>
-  <a href = "https://music.youtube.com/channel/UCjiGsk3ePl9fajUfgNVFGBA" target="_blank">
-  <img style="margin: 10px" src="https://yt3.googleusercontent.com/hib75A2V1CCLJX9OIr4eYS6Hnx7VM8XVkPLM_qc8Z87vqz76vyJgFfpD7Mn30BuxakqkH3Uv=s160-c-k-c0x00ffffff-no-rj" alt="NF" height="200" />
-  </a>
-  </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong ><div align="center">Ado</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">Tetsuro</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">NF</div></strong></td>  </tr>
-</table>
-</div>
-<br/>
+
 
 
 
