@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/New_logo_AM.svg" width="150" alt="Arts et Métiers Logo">
+      <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1752105600&v=beta&t=LeU6rrQuL0agpJib6TgDMUD2jc8NJX3UfI9ABzwtqfQ" width="150" alt="Arts et Métiers Logo">
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src=" https://images.seeklogo.com/logo-png/52/1/universite-de-lorraine-logo-png_seeklogo-525306.png" width="150" alt="UL Logo">
+      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1752105600&v=beta&t=w7E4w10PczDDHR06pfM5ZnobvENXraV6nNZ7DiIB7pI" width="150" alt="UL Logo">
     </td>  </tr>
   <tr>
     <td valign="top">
