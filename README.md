@@ -3,9 +3,28 @@
 </div>
 
 
-### <div align="center">I'm Léo, I'm currently in my first year of a master's degree in 3D technology management. 📖</div>
+### <div align="center">I'm Léo, an IT student with a strong passion for new technologies. I'm especially drawn to projects that blend innovation and creativity, particularly in the areas of virtual reality, augmented reality, and interactive technologies.</div>
 <br/>
 
+## Education
+
+
+<table>
+  <tr>
+    <td>
+      <strong>Arts et Métiers Institute of Technology</strong><br>
+      <em>Master MTI3D – 3D Computer Graphics and IT</em><br>
+      <ul>
+        <li>Currently in my first year (M1)</li>
+        <li>Focus on real-time rendering, VR/AR, and human-computer interaction</li>
+        <li>Projects combining immersive tech and innovative UX</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/Logo_Arts_et_M%C3%A9tiers.svg/512px-Logo_Arts_et_M%C3%A9tiers.svg.png" width="120" alt="Arts et Métiers Logo">
+    </td>
+  </tr>
+</table>
 
 
 
