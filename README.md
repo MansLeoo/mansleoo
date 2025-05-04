@@ -6,7 +6,6 @@
 ### <div align="center">I'm Léo, an IT student with a strong passion for new technologies. I'm especially drawn to projects that blend innovation and creativity, particularly in the areas of virtual reality, augmented reality, and interactive technologies.</div>
 <br/>
 
-## Education
 ## 🎓 Education
 
 <table>
@@ -33,8 +32,9 @@
         <li>Networks – Software Development</li>
       </ul>
     </td>
-    <td valign="top" align="right"><strong><code>2021–2024</code></strong></td>
-  </tr>
+    <td align="center">
+      <img src=" https://images.seeklogo.com/logo-png/52/1/universite-de-lorraine-logo-png_seeklogo-525306.png" width="150" alt="UL Logo">
+    </td>  </tr>
   <tr>
     <td valign="top">
       <strong>General Baccalaureate</strong><br>
@@ -44,8 +44,9 @@
         <li>Graduated with Honors (Mention Assez Bien)</li>
       </ul>
     </td>
-    <td valign="top" align="right"><strong><code>2019–2021</code></strong></td>
-  </tr>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHqQE8IrbQzfw/company-logo_200_200/company-logo_200_200/0/1698153423663/lyce_charles_de_gaulle_de_chaumont_logo?e=1752105600&v=beta&t=utFCkMClrwoPJK17NQgPM1hTRFtq2aD6A13EsoX2HBA" width="150" alt="UL Logo">
+    </td>  </tr>
 </table>
 
 
