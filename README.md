@@ -50,7 +50,32 @@
 </table>
 
 
+## Industry & Research Collaborations
 
+
+
+<div align="center">
+<table>
+  <tr>
+<td>
+    <img style="margin: 10px" src="https://ipal.cnrs.fr/wp-content/uploads/2022/06/Logo-IPAL-New.png" alt="Ipal" height="200" />
+  
+  </td>
+<td>
+<img style="margin: 10px" src="https://www.femto-st.fr/sites/all/themes/femto/images/logo.svg" alt="FemtosT" height="200" />
+</a>
+</td>
+    <td>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/fr/9/9b/Logo_de_LPC_Clermont.png" alt="LPC" height="200" />
+  </a>
+  </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong ><div align="center">Ipal</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Femto-ST</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">LPC Clermont</div></strong></td>  </tr>
+</table>
+</div>
 
 
 
