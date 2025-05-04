@@ -7,24 +7,49 @@
 <br/>
 
 ## Education
-
+## 🎓 Education
 
 <table>
   <tr>
-    <td>
-      <strong>Arts et Métiers Institute of Technology</strong><br>
-      <em>Master MTI3D – 3D Computer Graphics and IT</em><br>
+    <td valign="top">
+      <strong>Master in Industrial Engineering</strong><br>
+      <em>Arts et Métiers, 71100 Chalon-sur-Saône</em><br>
       <ul>
-        <li>Currently in my first year (M1)</li>
-        <li>Focus on real-time rendering, VR/AR, and human-computer interaction</li>
-        <li>Projects combining immersive tech and innovative UX</li>
+        <li>Specialization: Management of Interactive 3D Technologies</li>
+        <li>Virtual Reality – Augmented Reality</li>
+        <li>Image Analysis – 3D Modeling</li>
       </ul>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/New_logo_AM.svg" width="120" alt="Arts et Métiers Logo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/New_logo_AM.svg" width="150" alt="Arts et Métiers Logo">
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <strong>Bachelor’s Degree in Computer Science</strong><br>
+      <em>University of Lorraine, 54500 Vandœuvre-lès-Nancy</em><br>
+      <ul>
+        <li>Robotics – Cybersecurity – Web Development</li>
+        <li>Networks – Software Development</li>
+      </ul>
+    </td>
+    <td valign="top" align="right"><strong><code>2021–2024</code></strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>General Baccalaureate</strong><br>
+      <em>Lycée Charles de Gaulle, 52000 Chaumont</em><br>
+      <ul>
+        <li>Specializations: Mathematics, Computer Science, Engineering Sciences</li>
+        <li>Graduated with Honors (Mention Assez Bien)</li>
+      </ul>
+    </td>
+    <td valign="top" align="right"><strong><code>2019–2021</code></strong></td>
+  </tr>
 </table>
+
+
+
 
 
 
