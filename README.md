@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <strong>Master in Industrial Engineering</strong><br>
