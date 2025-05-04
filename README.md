@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/Logo_Arts_et_M%C3%A9tiers.svg/512px-Logo_Arts_et_M%C3%A9tiers.svg.png" width="120" alt="Arts et Métiers Logo">
+      <img src="https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27arts_et_m%C3%A9tiers#/media/Fichier:New_logo_AM.svg" width="120" alt="Arts et Métiers Logo">
     </td>
   </tr>
 </table>
