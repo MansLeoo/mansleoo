@@ -58,15 +58,15 @@
 <table>
   <tr>
 <td>
-    <img style="margin: 10px" src="https://ipal.cnrs.fr/wp-content/uploads/2022/06/Logo-IPAL-New.png" alt="Ipal" height="200" />
+    <img style="margin: 10px" src="https://ipal.cnrs.fr/wp-content/uploads/2022/06/Logo-IPAL-New.png" alt="Ipal" width="200" />
   
   </td>
 <td>
-<img style="margin: 10px" src="https://www.femto-st.fr/sites/all/themes/femto/images/logo.svg" alt="FemtosT" height="200" />
+<img style="margin: 10px" src="https://www.femto-st.fr/sites/all/themes/femto/images/logo.svg" alt="FemtosT" width="200" />
 </a>
 </td>
     <td>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/fr/9/9b/Logo_de_LPC_Clermont.png" alt="LPC" height="200" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/fr/9/9b/Logo_de_LPC_Clermont.png" alt="LPC" width="200" />
   </a>
   </td>
   </tr>
