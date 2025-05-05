@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong ><div align="center">Dijon Tram Project</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center"> Menu in Augmented Reality</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Augmented Reality Menu</div></strong></td>
     <td style="text-align: center;"><strong><div align="center">Tank Game</div></strong></td>  </tr>
 </table>
 </div>
