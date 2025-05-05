@@ -98,7 +98,30 @@
 </table>
 </div>
 
-
+<br/><br/>
+## 🎓 Academic Projects
+<div align="center">
+<table>
+  <tr>
+<td>
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/tram.png" alt="Tram" width="200" />
+  
+  </td>
+<td>
+<img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/MENUAR.png" alt="MenuAR" width="200" />
+</a>
+</td>
+    <td>
+  <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/tank.png" alt="Tank" width="200" />
+  </a>
+  </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong ><div align="center">Dijon Tram Project</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center"> Menu in Augmented Reality</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Tank Game</div></strong></td>  </tr>
+</table>
+</div>
 
 <br/>
  
