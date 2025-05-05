@@ -117,7 +117,7 @@
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong ><div align="center">[Dijon Tram Project](https://github.com/MansLeoo/ProjetTramMansLeo)</div></strong></td>
+    <td style="text-align: center;"><strong ><div align="center">     <a href="https://github.com/MansLeoo/ProjetTramMansLeo" target="_blank"> Dijon Tram Project </a></div></strong></td>
     <td style="text-align: center;"><strong><div align="center">Augmented Reality Menu</div></strong></td>
     <td style="text-align: center;"><strong><div align="center">Tank Game</div></strong></td>  </tr>
 </table>
