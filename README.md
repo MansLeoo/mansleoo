@@ -94,6 +94,8 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/ProjetTramMansLeo" style="text-decoration: none; color: inherit;" target="_blank"> Vertech'</a></div></strong></td>
+        <!-- Colonne vide comme espace -->
+    <td style="width: 40px;"></td>
     <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/ProjetTramMansLeo" style="text-decoration: none; color: inherit;" target="_blank"> Jacques Prevot</a></div></strong></td>
 </table>
 </div>
