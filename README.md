@@ -87,6 +87,8 @@
     <img style="margin: 10px" src="https://media.licdn.com/dms/image/v2/C4E0BAQGyN7lSzfdI1Q/company-logo_200_200/company-logo_200_200/0/1631319025649?e=1752105600&v=beta&t=SjcgUkHcgkEPgMcD0ZlniIFBffxsMoUFCX56MXA_qXA" alt="Vertech" width="200" />
   
   </td>
+          <!-- Colonne vide comme espace -->
+    <td style="width: 40px;"> </td>
 <td>
 <img style="margin: 10px" src="https://media.licdn.com/dms/image/v2/C4D0BAQHWenBgmXOb_w/company-logo_200_200/company-logo_200_200/0/1630573575764/jacques_prevot_artifices_logo?e=1752105600&v=beta&t=zBEAzINS8K83sA-Qk08BAOLj-F3bsctnqfOx5dxnNMY" alt="JP" width="200" />
 </a>
@@ -95,7 +97,7 @@
   <tr>
     <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/ProjetTramMansLeo" style="text-decoration: none; color: inherit;" target="_blank"> Vertech'</a></div></strong></td>
         <!-- Colonne vide comme espace -->
-    <td style="width: 40px;"></td>
+    <td style="width: 40px;"> </td>
     <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/ProjetTramMansLeo" style="text-decoration: none; color: inherit;" target="_blank"> Jacques Prevot</a></div></strong></td>
 </table>
 </div>
