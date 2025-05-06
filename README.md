@@ -71,9 +71,9 @@
   </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/DroneProject" style="text-decoration: none; color: inherit;" target="_blank"> Ipal</a></div></strong></td>
-    <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/PVDProject" style="text-decoration: none; color: inherit;" target="_blank"> Femto-ST</a></div></strong></td>
-    <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/MathLearning" style="text-decoration: none; color: inherit;" target="_blank"> LPC Clermont</a></div></strong></td>  </tr>
+    <td style="text-align: center;"><strong ><div align="center">Ipal</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Femto-ST</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">LPC Clermont</div></strong></td>  </tr>
 </table>
 </div>
 
@@ -98,7 +98,7 @@
     <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/Vertech" style="text-decoration: none; color: inherit;" target="_blank"> Vertech' </a></div></strong></td>
         <!-- Colonne vide comme espace -->
     <td style="width: 40px;"> </td>
-    <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/Vertech" style="text-decoration: none; color: inherit;" target="_blank"> Jacques Prevot </a></div></strong></td>
+    <td style="text-align: center;"><strong><div align="center">Jacques Prevot </div></strong></td>
 </table>
 </div>
 
