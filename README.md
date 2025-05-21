@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=90&pause=1000&color=08DA50&center=true&width=1500&height=200&lines=Welcome+to+my+github+page+!)](https://git.io/typing-svg)
-<img src="https://github.com/MansLeoo/mansleoo/blob/main/GifGithub.gif" align="center" style="width: 100%" />
+<div align="center"><img src="https://github.com/MansLeoo/mansleoo/blob/main/GifGithub.gif" align="center" style="width: 100%" />
 </div>
 
 
