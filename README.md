@@ -128,29 +128,6 @@
 
 <br/>
  
-## Github Stats
-<div align="center">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansleoo&layout=donut-vertical&theme=tokyonight" alt="mansLeoo" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansleoo&theme=tokyonight" alt="mansleoo" /></p>
-<br />
-</div>
-
-## Connect with me
-<div align="center">
-<a href="https://www.linkedin.com/in/l%C3%A9o-mans-9416b229b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  
-
-<a href="https://stackoverflow.com/users/23037640/l%c3%a9o-mans" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-
-</div>
-
-
-<br/>
 
 ## Technicals skills
 
@@ -204,6 +181,29 @@
 
 
 
+## Github Stats
+<div align="center">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansleoo&layout=donut-vertical&theme=tokyonight" alt="mansLeoo" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansleoo&theme=tokyonight" alt="mansleoo" /></p>
+<br />
+</div>
+
+## Connect with me
+<div align="center">
+<a href="https://www.linkedin.com/in/l%C3%A9o-mans-9416b229b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  
+
+<a href="https://stackoverflow.com/users/23037640/l%c3%a9o-mans" target="_blank">
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+
+</div>
+
+
+<br/>
 
 
 
