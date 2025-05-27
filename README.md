@@ -161,7 +161,7 @@
 
 
 
-### Game Engines Proficiency
+### Application Development Proficiency
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
   <img style="margin: 10px" src="https://www.realite-virtuelle.com/wp-content/uploads/2016/06/unity_logo-1.jpg" height="110" />
@@ -186,7 +186,7 @@
 </table>
 </div>
 
-
+### Programming languages Proficiency
 <table>
   <tr>
     <td align="center">
