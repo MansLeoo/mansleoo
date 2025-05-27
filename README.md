@@ -185,44 +185,43 @@
     <td style="text-align: center;"><strong><div align="center"> 3DS Max</div></strong></td>
 </table>
 </div>
-<div style="margin: 20px;">
-  <table>
-    <tr>
-      <!-- Ligne des images -->
-      <td style="text-align: center;">
-        <img src="java.png" height="100" />
-      </td>
-      <td style="text-align: center;">
-        <img src="pyhon.png" height="100" />
-      </td>
-      <td style="text-align: center; padding-right: 40px;">
-        <img src="C.png" height="100" />
-      </td>
-      <td style="text-align: center;">
-        <img src="Csharp.png" height="100" />
-      </td>
-      <td style="text-align: center; padding-right: 40px;">
-        <img src="C++.png" height="100" />
-      </td>
-      <td style="text-align: center;">
-        <img src="php.png" height="100" />
-      </td>
-      <td style="text-align: center;">
-        <img src="javascript.png" height="100" />
-      </td>
-    </tr>
-    <tr>
-      <!-- Ligne des noms -->
-      <td style="text-align: center;"><strong>Java</strong></td>
-      <td style="text-align: center;"><strong>Python</strong></td>
-      <td style="text-align: center;"><strong>C</strong></td>
-      <td style="text-align: center;"><strong>C#</strong></td>
-      <td style="text-align: center;"><strong>C++</strong></td>
-      <td style="text-align: center;"><strong>PHP</strong></td>
-      <td style="text-align: center;"><strong>JavaScript</strong></td>
-    </tr>
-  </table>
-</div>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="java.png" height="70" /><br/>
+      <div align="center"><strong>Java</strong></div>
+    </td>
+    <td align="center">
+      <img src="pyhon.png" height="70" /><br/>
+      <div align="center"><strong>Python</strong></div>
+    </td>
+    <td align="center">
+      <img src="C.png" height="70" /><br/>
+      <div align="center"><strong>C</strong></div>
+    </td>
+    <td width="40px"></td>
+    <td align="center">
+      <img src="Csharp.png" height="70" /><br/>
+      <div align="center"><strong>C#</strong></div>
+    </td>
+    <td align="center">
+      <img src="C++.png" height="70" /><br/>
+      <div align="center"><strong>C++</strong></div>
+    </td>
+    <td width="40px"></td>
+    <td align="center">
+      <img src="php.png" height="70" /><br/>
+      <div align="center"><strong>PHP</strong></div>
+    </td>
+    <td align="center">
+      <img src="javascript.png" height="70" /><br/>
+      <div align="center"><strong>JavaScript</strong></div>
+    </td>
+  </tr>
+</table>
+
 
 
 
