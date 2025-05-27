@@ -133,9 +133,35 @@
 
 ### Adobe Software Proficiency
 
+<div align="center">
+<table>
+  <tr>
+<td>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110" />  
+</td>
+<td>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110" />
+
+</a>
+</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong ><div align="center"> Photoshop</div></strong></td>
+    <td style="text-align: center;"><strong><div align="center"> Premiere Pro</div></strong></td>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110" />
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110" />
 </div>
 
 ### Game Engines Proficiency
