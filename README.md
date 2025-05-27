@@ -186,6 +186,49 @@
 </table>
 </div>
 
+<div style="margin: 10px;">
+  <table>
+    <tr>
+      <!-- Colonne de gauche -->
+      <td style="text-align: center;">
+        <img src="C.png" height="100" /><br />
+        <strong>C</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="java.png" height="100" /><br />
+        <strong>Java</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="php.png" height="100" /><br />
+        <strong>PHP</strong>
+      </td>
+    </tr>
+    <tr>
+      <!-- Deuxième ligne -->
+      <td style="text-align: center;">
+        <img src="Csharp.png" height="100" /><br />
+        <strong>C#</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="pyhon.png" height="100" /><br />
+        <strong>Python</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="javascript.png" height="100" /><br />
+        <strong>JavaScript</strong>
+      </td>
+    </tr>
+    <tr>
+      <!-- Troisième ligne -->
+      <td style="text-align: center;">
+        <img src="C++.png" height="100" /><br />
+        <strong>C++</strong>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 
 
