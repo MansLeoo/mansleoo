@@ -129,7 +129,7 @@
 <br/>
  
 
-## Technicals skills
+## 🧑‍💻Technicals skills
 
 ### Adobe Software Proficiency
 
