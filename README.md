@@ -190,37 +190,42 @@
 <table>
   <tr>
     <td align="center">
-      <img src="java.png" height="70" /><br/>
-      <div align="center"><strong>Java</strong></div>
+      <img src="java.png" height="70" />
     </td>
     <td align="center">
-      <img src="pyhon.png" height="70" /><br/>
-      <div align="center"><strong>Python</strong></div>
+      <img src="pyhon.png" height="70" />
     </td>
     <td align="center">
-      <img src="C.png" height="70" /><br/>
-      <div align="center"><strong>C</strong></div>
+      <img src="C.png" height="70" />
     </td>
     <td width="40px"></td>
     <td align="center">
-      <img src="Csharp.png" height="70" /><br/>
-      <div align="center"><strong>C#</strong></div>
+      <img src="Csharp.png" height="70" />
     </td>
     <td align="center">
-      <img src="C++.png" height="70" /><br/>
-      <div align="center"><strong>C++</strong></div>
+      <img src="C++.png" height="70" />
     </td>
     <td width="40px"></td>
     <td align="center">
-      <img src="php.png" height="70" /><br/>
-      <div align="center"><strong>PHP</strong></div>
+      <img src="php.png" height="70" />
     </td>
     <td align="center">
-      <img src="javascript.png" height="70" /><br/>
-      <div align="center"><strong>JavaScript</strong></div>
+      <img src="javascript.png" height="70" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><strong>Java</strong></td>
+    <td align="center"><strong>Python</strong></td>
+    <td align="center"><strong>C</strong></td>
+    <td></td>
+    <td align="center"><strong>C#</strong></td>
+    <td align="center"><strong>C++</strong></td>
+    <td></td>
+    <td align="center"><strong>PHP</strong></td>
+    <td align="center"><strong>JavaScript</strong></td>
+  </tr>
 </table>
+
 
 
 
