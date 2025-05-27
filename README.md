@@ -154,28 +154,21 @@
 
 
 
-
-
-
-
-
-
-
 ### Application Development Proficiency
 
-<table align="center">
+<table >
   <tr>
     <td align="center">
-      <img src="SDL.png" height="70" />
+      <img src="SDL.png" height="110" />
     </td>
     <td align="center">
-      <img src="sfml.png" height="70" />
+      <img src="sfml.png" height="110" />
     </td>
     <td align="center">
-      <img src="unity.png" height="70" />
+      <img src="unity.png" height="110" />
     </td>
     <td align="center">
-      <img src="androidStudio.png" height="70" />
+      <img src="androidStudio.png" height="110" />
     </td>
   </tr>
   <tr>
