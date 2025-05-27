@@ -53,7 +53,7 @@
 
 
 
-<div style="margin: 10px">
+<div align="center">
 <table>
   <tr>
 <td>
@@ -133,7 +133,7 @@
 
 ### Adobe Software Proficiency
 
-<div align="center">
+<div style="margin: 10px" >
 <table>
   <tr>
 <td>
@@ -160,9 +160,6 @@
 
 
 
-<div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110" />
-</div>
 
 ### Game Engines Proficiency
 
