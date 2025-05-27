@@ -189,7 +189,6 @@
 <div style="margin: 10px;">
   <table>
     <tr>
-      <!-- Ligne 1 -->
       <td style="text-align: center;">
         <img src="java.png" height="100" /><br />
         <strong>Java</strong>
@@ -202,9 +201,6 @@
         <img src="C.png" height="100" /><br />
         <strong>C</strong>
       </td>
-    </tr>
-    <tr>
-      <!-- Ligne 2 -->
       <td style="text-align: center;">
         <img src="Csharp.png" height="100" /><br />
         <strong>C#</strong>
@@ -217,11 +213,6 @@
         <img src="php.png" height="100" /><br />
         <strong>PHP</strong>
       </td>
-    </tr>
-    <tr>
-      <!-- Ligne 3 -->
-      <td></td>
-      <td></td>
       <td style="text-align: center;">
         <img src="javascript.png" height="100" /><br />
         <strong>JavaScript</strong>
@@ -229,6 +220,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
