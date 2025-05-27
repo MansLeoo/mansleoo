@@ -185,41 +185,45 @@
     <td style="text-align: center;"><strong><div align="center"> 3DS Max</div></strong></td>
 </table>
 </div>
-
-<div style="margin: 10px;">
+<div style="margin: 20px;">
   <table>
     <tr>
+      <!-- Ligne des images -->
       <td style="text-align: center;">
-        <img src="java.png" height="100" /><br />
-        <strong>Java</strong>
+        <img src="java.png" height="100" />
       </td>
       <td style="text-align: center;">
-        <img src="pyhon.png" height="100" /><br />
-        <strong>Python</strong>
+        <img src="pyhon.png" height="100" />
+      </td>
+      <td style="text-align: center; padding-right: 40px;">
+        <img src="C.png" height="100" />
       </td>
       <td style="text-align: center;">
-        <img src="C.png" height="100" /><br />
-        <strong>C</strong>
+        <img src="Csharp.png" height="100" />
+      </td>
+      <td style="text-align: center; padding-right: 40px;">
+        <img src="C++.png" height="100" />
       </td>
       <td style="text-align: center;">
-        <img src="Csharp.png" height="100" /><br />
-        <strong>C#</strong>
+        <img src="php.png" height="100" />
       </td>
       <td style="text-align: center;">
-        <img src="C++.png" height="100" /><br />
-        <strong>C++</strong>
+        <img src="javascript.png" height="100" />
       </td>
-      <td style="text-align: center;">
-        <img src="php.png" height="100" /><br />
-        <strong>PHP</strong>
-      </td>
-      <td style="text-align: center;">
-        <img src="javascript.png" height="100" /><br />
-        <strong>JavaScript</strong>
-      </td>
+    </tr>
+    <tr>
+      <!-- Ligne des noms -->
+      <td style="text-align: center;"><strong>Java</strong></td>
+      <td style="text-align: center;"><strong>Python</strong></td>
+      <td style="text-align: center;"><strong>C</strong></td>
+      <td style="text-align: center;"><strong>C#</strong></td>
+      <td style="text-align: center;"><strong>C++</strong></td>
+      <td style="text-align: center;"><strong>PHP</strong></td>
+      <td style="text-align: center;"><strong>JavaScript</strong></td>
     </tr>
   </table>
 </div>
+
 
 
 
