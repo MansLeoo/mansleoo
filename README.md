@@ -189,14 +189,29 @@
 <div style="margin: 10px;">
   <table>
     <tr>
-      <!-- Colonne de gauche -->
+      <!-- Ligne 1 -->
+      <td style="text-align: center;">
+        <img src="java.png" height="100" /><br />
+        <strong>Java</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="pyhon.png" height="100" /><br />
+        <strong>Python</strong>
+      </td>
       <td style="text-align: center;">
         <img src="C.png" height="100" /><br />
         <strong>C</strong>
       </td>
+    </tr>
+    <tr>
+      <!-- Ligne 2 -->
       <td style="text-align: center;">
-        <img src="java.png" height="100" /><br />
-        <strong>Java</strong>
+        <img src="Csharp.png" height="100" /><br />
+        <strong>C#</strong>
+      </td>
+      <td style="text-align: center;">
+        <img src="C++.png" height="100" /><br />
+        <strong>C++</strong>
       </td>
       <td style="text-align: center;">
         <img src="php.png" height="100" /><br />
@@ -204,28 +219,13 @@
       </td>
     </tr>
     <tr>
-      <!-- Deuxième ligne -->
-      <td style="text-align: center;">
-        <img src="Csharp.png" height="100" /><br />
-        <strong>C#</strong>
-      </td>
-      <td style="text-align: center;">
-        <img src="pyhon.png" height="100" /><br />
-        <strong>Python</strong>
-      </td>
+      <!-- Ligne 3 -->
+      <td></td>
+      <td></td>
       <td style="text-align: center;">
         <img src="javascript.png" height="100" /><br />
         <strong>JavaScript</strong>
       </td>
-    </tr>
-    <tr>
-      <!-- Troisième ligne -->
-      <td style="text-align: center;">
-        <img src="C++.png" height="100" /><br />
-        <strong>C++</strong>
-      </td>
-      <td></td>
-      <td></td>
     </tr>
   </table>
 </div>
