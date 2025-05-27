@@ -171,7 +171,10 @@
 
 <div style="display: flex; justify-content: space-between; margin-right: 100px;">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="110" />
+    <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" />
+
 </div>
+
 
 # About me
 
