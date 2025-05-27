@@ -53,7 +53,7 @@
 
 
 
-<div align="center">
+<div style="margin: 10px">
 <table>
   <tr>
 <td>
