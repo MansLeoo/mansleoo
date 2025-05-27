@@ -163,9 +163,29 @@
 
 ### Application Development Proficiency
 
-<div style="display: flex; justify-content: space-between; margin-right: 100px;">
-  <img style="margin: 10px" src="https://www.realite-virtuelle.com/wp-content/uploads/2016/06/unity_logo-1.jpg" height="110" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="SDL.png" height="70" />
+    </td>
+    <td align="center">
+      <img src="sfml.png" height="70" />
+    </td>
+    <td align="center">
+      <img src="unity.png" height="70" />
+    </td>
+    <td align="center">
+      <img src="androidStudio.png" height="70" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>SDL2</strong></td>
+    <td align="center"><strong>SFML</strong></td>
+    <td align="center"><strong>Unity</strong></td>
+    <td align="center"><strong>Android Studio</strong></td>
+  </tr>
+</table>
+
 
 ### 3D Modeling Software Proficiency
 <div style="margin: 10px" >
