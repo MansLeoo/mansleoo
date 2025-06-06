@@ -241,32 +241,6 @@
 
 
 
-# About me
-
-### Personal Interests Outside of Tech
-<div align="center">
-<table>
-  <tr>
-<td>
-    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/aeronautiques.png" alt="aeronautics" height="200" />
-  
-  </td>
-<td>
-<img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/mont-fuji.png" alt="Japanese Culture" height="200" />
-</a>
-</td>
-    <td>
-  <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/astronomie.png" alt="Astronomy" height="200" />
-  </a>
-  </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong ><div align="center">Aeronautics</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">Japanese Culture</div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">Astronomy</div></strong></td>  </tr>
-</table>
-</div>
-<br/>
 
 
 
