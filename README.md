@@ -72,7 +72,7 @@
   <tr>
     <td style="text-align: center;"><strong ><div align="center">Ipal</div></strong></td>
     <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/PVDproject" style="text-decoration: none; color: inherit;" target="_blank">Femto-ST</a></div></strong></td>
-    <td style="text-align: center;"><strong><div align="center">LPC Clermont</div></strong></td>  </tr>
+    <td style="text-align: center;"><strong><div align="center"><a href="https://github.com/MansLeoo/MathLearning"style="text-decoration: none; color: inherit;" target="_blank">LPC Clermont</div></strong></td>  </tr>
 </table>
 </div>
 
