@@ -16,7 +16,7 @@
         <li>Specialization: Management of Interactive 3D Technologies</li>
         <li>Virtual Reality – Augmented Reality</li>
         <li>Image Analysis – 3D Modeling</li>
-        <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank">Website</a>
+
       </ul>
     </td>
     <td align="center">
