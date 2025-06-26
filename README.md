@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1752105600&v=beta&t=LeU6rrQuL0agpJib6TgDMUD2jc8NJX3UfI9ABzwtqfQ" width="150" alt="Arts et Métiers Logo">
+      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1752105600&v=beta&t=LeU6rrQuL0agpJib6TgDMUD2jc8NJX3UfI9ABzwtqfQ" width="150" alt="Arts et Métiers Logo"></a>
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1752105600&v=beta&t=w7E4w10PczDDHR06pfM5ZnobvENXraV6nNZ7DiIB7pI" width="150" alt="UL Logo"></a>
+      <a href="https://licence-master-informatique.formation.univ-lorraine.fr/licence-informatique-universite-de-lorraine" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1752105600&v=beta&t=w7E4w10PczDDHR06pfM5ZnobvENXraV6nNZ7DiIB7pI" width="150" alt="UL Logo"></a>
     </td>  </tr>
   <tr>
     <td valign="top">
@@ -44,7 +44,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHqQE8IrbQzfw/company-logo_200_200/company-logo_200_200/0/1698153423663/lyce_charles_de_gaulle_de_chaumont_logo?e=1752105600&v=beta&t=utFCkMClrwoPJK17NQgPM1hTRFtq2aD6A13EsoX2HBA" width="150" alt="UL Logo">
+      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQHqQE8IrbQzfw/company-logo_200_200/company-logo_200_200/0/1698153423663/lyce_charles_de_gaulle_de_chaumont_logo?e=1752105600&v=beta&t=utFCkMClrwoPJK17NQgPM1hTRFtq2aD6A13EsoX2HBA" width="150" alt="UL Logo"></a>
     </td>  </tr>
 </table>
 
