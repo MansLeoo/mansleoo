@@ -43,7 +43,6 @@
       <ul>
         <li>Specializations: Mathematics, Computer Science, Engineering Sciences</li>
         <li>Graduated with Honors (Mention Assez Bien)</li>
-        <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank">Website</a>
 
       </ul>
     </td>
