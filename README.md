@@ -30,10 +30,9 @@
         <li>Robotics – Cybersecurity – Web Development</li>
         <li>Networks – Software Development</li>
       </ul>
-      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank">Website</a>
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1752105600&v=beta&t=w7E4w10PczDDHR06pfM5ZnobvENXraV6nNZ7DiIB7pI" width="150" alt="UL Logo">
+      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1752105600&v=beta&t=w7E4w10PczDDHR06pfM5ZnobvENXraV6nNZ7DiIB7pI" width="150" alt="UL Logo"></a>
     </td>  </tr>
   <tr>
     <td valign="top">
