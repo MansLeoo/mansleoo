@@ -16,7 +16,6 @@
         <li>Specialization: Management of Interactive 3D Technologies</li>
         <li>Virtual Reality – Augmented Reality</li>
         <li>Image Analysis – 3D Modeling</li>
-
       </ul>
     </td>
     <td align="center">
@@ -30,7 +29,6 @@
       <ul>
         <li>Robotics – Cybersecurity – Web Development</li>
         <li>Networks – Software Development</li>
-        <a href="https://licence-master-informatique.formation.univ-lorraine.fr/licence-informatique-universite-de-lorraine" style="text-decoration: none; color: inherit;" target="_blank">Website</a>
       </ul>
     </td>
     <td align="center">
@@ -43,7 +41,6 @@
       <ul>
         <li>Specializations: Mathematics, Computer Science, Engineering Sciences</li>
         <li>Graduated with Honors (Mention Assez Bien)</li>
-
       </ul>
     </td>
     <td align="center">
