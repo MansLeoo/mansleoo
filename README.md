@@ -137,10 +137,10 @@
 <table>
   <tr>
 <td>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110 width="250"" />  
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110" />  
 </td>
 <td>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110" width="250" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110"  />
 
 </a>
 </td>
@@ -156,11 +156,11 @@
 <table>
   <tr>
 <td>
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="110" />
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="110" width="250" />
  
 </td>
 <td>
-  <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" />
+  <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" width="250" />
 </td>
   </tr>
   <tr>
