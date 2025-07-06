@@ -137,10 +137,10 @@
 <table>
   <tr>
 <td>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110" />  
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="110 width="250"" />  
 </td>
 <td>
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="110" width="250" />
 
 </a>
 </td>
