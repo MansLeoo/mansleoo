@@ -161,7 +161,6 @@
 </td>
 <td>
   <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" />
-</a>
 </td>
   </tr>
   <tr>
