@@ -156,11 +156,11 @@
 <table>
   <tr>
 <td>
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="110" width="250" />
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/langfr-2560px-Blender_logo_no_text.svg.png" height="110" width="110" />
  
 </td>
 <td>
-  <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" width="250" />
+  <img style="margin: 10px" src="autodesk-3ds-max-small-social-400.png" height="110" width="110" />
 </td>
   </tr>
   <tr>
@@ -175,16 +175,16 @@
 <table >
   <tr>
     <td align="center">
-      <img src="SDL.png" height="110" />
+      <img src="SDL.png" height="110" width="110" />
     </td>
     <td align="center">
-      <img src="sfml.png" height="110" />
+      <img src="sfml.png" height="110" width="110" />
     </td>
     <td align="center">
-      <img src="unity.png" height="110" />
+      <img src="unity.png" height="110" width="110" />
     </td>
     <td align="center">
-      <img src="androidStudio.png" height="110" />
+      <img src="androidStudio.png" height="110" width="110"/>
     </td>
   </tr>
   <tr>
