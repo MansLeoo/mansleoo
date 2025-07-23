@@ -44,7 +44,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQHqQE8IrbQzfw/company-logo_200_200/company-logo_200_200/0/1698153423663/lyce_charles_de_gaulle_de_chaumont_logo?e=1752105600&v=beta&t=utFCkMClrwoPJK17NQgPM1hTRFtq2aD6A13EsoX2HBA" width="150" alt="UL Logo"></a>
+      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/384119871_122100204656056279_906641522546458928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xuVeHvLSsmkQ7kNvwH-1Jw6&_nc_oc=AdkIcOysMjEHFscNgVmBZl63Xbsi25VnkQNkXtI0vwXCFn2dNydtEgvEN6itJLiojDdFyuPIYiF5mcofvLP-vCC_&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=358lazIpn1FRcgewsf3BZQ&oh=00_AfS6PsZcfLOXJ1Pd8yNyNBLRSXR-tvPV9PIU_9rfB9-YWA&oe=688693A8" width="150" alt="UL Logo"></a>
     </td>  </tr>
 </table>
 
