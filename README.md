@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1752105600&v=beta&t=LeU6rrQuL0agpJib6TgDMUD2jc8NJX3UfI9ABzwtqfQ" width="150" alt="Arts et Métiers Logo"></a>
+      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1756339200&v=beta&t=lYQXV4eMa5UUqGipLSHkZ2SmnZ0Yj9Ir0DRI7FCRMjo" width="150" alt="Arts et Métiers Logo"></a>
     </td>
   </tr>
   <tr>
