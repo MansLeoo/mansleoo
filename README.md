@@ -44,7 +44,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/384119871_122100204656056279_906641522546458928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xuVeHvLSsmkQ7kNvwH-1Jw6&_nc_oc=AdkIcOysMjEHFscNgVmBZl63Xbsi25VnkQNkXtI0vwXCFn2dNydtEgvEN6itJLiojDdFyuPIYiF5mcofvLP-vCC_&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=358lazIpn1FRcgewsf3BZQ&oh=00_AfS6PsZcfLOXJ1Pd8yNyNBLRSXR-tvPV9PIU_9rfB9-YWA&oe=688693A8" width="150" alt="UL Logo"></a>
+      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/384119871_122100204656056279_906641522546458928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tVAwzSUtjz4Q7kNvwFXEAo7&_nc_oc=Adl7tC_IWsQFv7dqrTeh2bMCqkpUKz9FOVDYc-_Nl6VHR65j-44sXjOzJmFxbw6oIWBgHnuLpH1zIH1q177OTw3z&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=CvwmQMJbYtqY3DqpNHCuiA&oh=00_AfWSnzOoagWY7tYLGgHeXUts7F3EVVjrg9p8COCzIe65Fw&oe=68A94B28" width="150" alt="LCDG"></a>
     </td>  </tr>
 </table>
 
