@@ -83,7 +83,7 @@
 <table>
   <tr>
 <td>
-    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/VertechLogo.png alt="Vertech" width="200" />
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/VertechLogo.png" alt="Vertech" width="200" />
   
   </td>
           <!-- Colonne vide comme espace -->
