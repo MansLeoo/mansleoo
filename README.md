@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQEnCux8PGoRsw/company-logo_200_200/company-logo_200_200/0/1630467149071/arts_et_m_tiers_paristech_logo?e=1756339200&v=beta&t=lYQXV4eMa5UUqGipLSHkZ2SmnZ0Yj9Ir0DRI7FCRMjo" width="150" alt="Arts et Métiers Logo"></a>
+      <a href="https://artsetmetiers.fr/fr/ingenierie-numerique" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://github.com/MansLeoo/mansleoo/blob/main/EnsamLogo.png" width="150" alt="Arts et Métiers Logo"></a>
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://licence-master-informatique.formation.univ-lorraine.fr/licence-informatique-universite-de-lorraine" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEzQ8fl6s3YVA/company-logo_200_200/company-logo_200_200/0/1688375511415/universit_de_lorraine_logo?e=1756339200&v=beta&t=_jgR7UJM0RaZBc4hjmliUJwWDqsw9WhF-sWMTLt-MKE" width="150" alt="UL Logo"></a>
+      <a href="https://licence-master-informatique.formation.univ-lorraine.fr/licence-informatique-universite-de-lorraine" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://github.com/MansLeoo/mansleoo/blob/main/UnivLorraineLogo.png" width="150" alt="UL Logo"></a>
     </td>  </tr>
   <tr>
     <td valign="top">
@@ -44,7 +44,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/384119871_122100204656056279_906641522546458928_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tVAwzSUtjz4Q7kNvwFXEAo7&_nc_oc=Adl7tC_IWsQFv7dqrTeh2bMCqkpUKz9FOVDYc-_Nl6VHR65j-44sXjOzJmFxbw6oIWBgHnuLpH1zIH1q177OTw3z&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=CvwmQMJbYtqY3DqpNHCuiA&oh=00_AfWSnzOoagWY7tYLGgHeXUts7F3EVVjrg9p8COCzIe65Fw&oe=68A94B28" width="150" alt="LCDG"></a>
+      <a href="https://www.lyceecdg52.com/" style="text-decoration: none; color: inherit;" target="_blank"><img src="https://github.com/MansLeoo/mansleoo/blob/main/LCDGLogo.png" width="150" alt="LCDG"></a>
     </td>  </tr>
 </table>
 
