@@ -118,7 +118,6 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong ><div align="center">     <a href="https://github.com/MansLeoo/ProjetTramMansLeo" style="text-decoration: none; color: inherit;" target="_blank"> Dijon Tram Project </a></div></strong></td>
-    <td style="text-align: center;"><strong><div align="center"> <a href="https://github.com/MansLeoo/Menu-AR" style="text-decoration: none; color: inherit;" target="_blank">Augmented Reality Menu</a></div></strong></td>
     <td style="text-align: center;"><strong><div align="center"> <a href="https://github.com/MansLeoo/ProjetTankGame" style="text-decoration: none; color: inherit;" target="_blank">Tank Game</a></div></strong></td>  </tr>
 </table>
 </div>
