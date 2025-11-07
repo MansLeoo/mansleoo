@@ -110,8 +110,7 @@
     <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/tram.png" alt="Tram" maxwidth="300" />
   
   </td>
-
-    <td>
+  <td>
   <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/tank.png" alt="Tank" maxwidth="300" />
   </a>
   </td>
