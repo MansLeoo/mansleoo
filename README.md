@@ -238,12 +238,7 @@
 
 
 
-## Github Stats
-<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansleoo&layout=donut-vertical&theme=tokyonight" alt="mansLeoo" /></p>
-
-</div>
 
 ## Connect with me
 <div align="center">
