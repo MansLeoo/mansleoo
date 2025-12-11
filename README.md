@@ -57,7 +57,7 @@
 <table>
   <tr>
 <td>
-    <img style="margin: 10px" src="https://ipal.cnrs.fr/wp-content/uploads/2022/06/Logo-IPAL-New.png" alt="Ipal" width="250" />
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/Logo-IPAL-New.png" alt="Ipal" width="250" />
   
   </td>
 <td>
