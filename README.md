@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <strong>Master in Industrial Engineering</strong><br>
+      <strong>Master’s Degree in Industrial Engineering</strong><br>
       <em>Arts et Métiers, 71100 Chalon-sur-Saône</em><br>
       <ul>
         <li>Specialization: Management of Interactive 3D Technologies</li>
