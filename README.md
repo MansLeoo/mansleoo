@@ -98,7 +98,7 @@
   <tr>
     <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/Vertech" style="text-decoration: none; color: inherit;" target="_blank"> Vertech' </a></div></strong></td>
         <!-- Colonne vide comme espace -->
-    <td style="width: 40px;"><strong><div align="center">Concervatoire </div></strong> </td>
+    <td style="width: 40px;"><strong><div align="center">Conservatoire du Grand Chalon </div></strong> </td>
     <td style="text-align: center;"><strong><div align="center">Jacques Prevot </div></strong></td>
 </table>
 </div>
