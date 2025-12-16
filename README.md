@@ -87,7 +87,9 @@
   
   </td>
           <!-- Colonne vide comme espace -->
-    <td style="width: 40px;"> </td>
+    <td style="width: 40px;"> 
+    <img style="margin: 10px" src="https://github.com/MansLeoo/mansleoo/blob/main/logo-conservatoire-du-grand-chalon.jpg" alt="Vertech" width="200" />
+    </td>
 <td>
 <img style="margin: 10px"  src="https://github.com/MansLeoo/mansleoo/blob/main/JPLogo.png" alt="JP" width="200" />
 </a>
@@ -96,7 +98,7 @@
   <tr>
     <td style="text-align: center;"><strong ><div align="center"><a href="https://github.com/MansLeoo/Vertech" style="text-decoration: none; color: inherit;" target="_blank"> Vertech' </a></div></strong></td>
         <!-- Colonne vide comme espace -->
-    <td style="width: 40px;"> </td>
+    <td style="width: 40px;"><strong><div align="center">Concervatoire </div></strong> </td>
     <td style="text-align: center;"><strong><div align="center">Jacques Prevot </div></strong></td>
 </table>
 </div>
